@@ -11,7 +11,7 @@
   "dependencies": {
     "fs-extra": "^0.20.1",
     "mkdirp": "^0.5.1",
-    "rootwd": "^0.1.1"
+    "rootwd": "0.1.1"
   },
   "devDependencies": {
     "co-mocha": "^1.1.2",
